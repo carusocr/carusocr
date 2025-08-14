@@ -1,7 +1,9 @@
 
 Currently working on video harvesting methods to support curated datasets for training/evaluating AI models. Always looking for something new to learn and/or mess with.
 
-I'm a contributor to and fan of the [yt-dlp](https://github.com/yt-dlp/yt-dlp) project. When I'm not in front of the computer I'm often either on or in the waters of Puget Sound.
+I'm a contributor to and fan of the [yt-dlp](https://github.com/yt-dlp/yt-dlp) project. 
+
+When I'm not in front of the computer I'm often either on or in the waters of Puget Sound.
 
 
 <h4><b><samp>Languages</samp></b></h4>
