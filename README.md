@@ -1,4 +1,4 @@
-## Hi there 👋
+## Currently working on video harvesting methods to support curated datasets for training/evaluating AI models. Always looking for something new to learn and/or mess with.
 
 <!--
 **carusocr/carusocr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
